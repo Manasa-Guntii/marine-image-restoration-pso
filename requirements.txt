@@ -1,3 +1,6 @@
-numpy==1.21.5 
-matplotlib==3.1.1
-opencv-python==3.4.8.29  
+streamlit
+numpy
+pandas
+opencv-python
+scikit-learn
+Pillow
